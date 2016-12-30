@@ -1,3 +1,0 @@
---require ./spec/custom_formatter_for_rspec
---format CustomFormatterForRSpec
---color
